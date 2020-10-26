@@ -1,31 +1,18 @@
+<!DOCTYPE html>
 <html>
 <head>
 <style>
-.city {
-  background-color: tomato;
-  color: white;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
 }
 </style>
 </head>
 <body>
 
-<div class="city">
-  <h2>London</h2>
-  <p>New Delhi is the capital city of India</p>
-</div>
-
-<div class="city">
-  <h2>Washington DC</h2>
-  <p>Washington DC is the capital city of USA</p>
-</div>
-
-<div class="city">
-  <h2>Tokyo</h2>
-  <p>Tokyo is the capital of Japan.</p>
-</div>
+<h1 id="myHeader">My Header</h1>
 
 </body>
 </html>
