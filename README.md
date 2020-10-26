@@ -1,18 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-#myHeader {
-  background-color: lightblue;
-  color: black;
-  padding: 40px;
-  text-align: center;
-}
-</style>
-</head>
 <body>
 
-<h1 id="myHeader">My Header</h1>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
 
 </body>
 </html>
